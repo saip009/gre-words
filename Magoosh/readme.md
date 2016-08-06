@@ -3,7 +3,14 @@
   - Download the file [magoosh-decks.zip](https://github.com/saip009/gre-words/blob/master/Magoosh/magoosh-decks.zip)
   - Extract it
   - Run the 'in_some_order.py' file
-  - If you don't know how to run python, refer to [this](https://github.com/saip009/gre-words)
+
+###Python help!
+If you don't know how to run python, refer to [this](https://github.com/saip009/gre-words) and then continue. Now that you have a folder in desktop called 'Python', extract magoosh-decks.zip in that folder or just copy the extracted magoosh folder to the 'Python' directory on desktop. Now open the command prompt and enter the following commands: 
+
+ ```sh
+   > cd Desktop/Python/magoosh/
+   > python in_some_order.py
+  ```
 
 ### INPUT
   - First choose one of the numbers as mentioned (ie 1, 2 or 3)
