@@ -16,11 +16,11 @@ For those who don't know how to run a python script.
   - Navigate to program location using the [cd command](http://www.digitalcitizen.life/command-prompt-how-use-basic-commands).
    Easiest way would be to create a folder called 'Python' in Desktop and store all programs in that folder and use
   ```sh
-   $ cd Desktop/Python/ 
+   > cd Desktop/Python/ 
   ```
   - To run a program 'code.py', use
   ```sh
-   $ python code.py
+   > python code.py
   ```
  - That's it!
 
