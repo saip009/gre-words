@@ -1,5 +1,5 @@
 # Mnemonic Helper!
-These programs here will help you to memorise word lists for GRE with ease. Thanks to [mnemonics](http://www.mnemonicdictionary.com/) presented by various people!
+These programs here will help you to memorise word lists for GRE with ease. Thanks to [mnemonics](http://www.mnemonicdictionary.com/) provided by various people!
 
 ### Requirements
  - [Python 2.7.x](https://www.python.org/downloads/)
