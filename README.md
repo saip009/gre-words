@@ -22,5 +22,5 @@ For those who don't know how to run a python script.
   ```sh
    $ python code.py
   ```
-- That's it!
+ - That's it!
 
